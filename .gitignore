@@ -2,5 +2,5 @@ intro-to-containers/more-complicated-nodejs-app/node_modules/
 intro-to-containers/alpine-lunix/node_modules/
 intro-to-containers/static-assets-project/node_modules/
 
-hugo-example/
 volumes/
+networking/
